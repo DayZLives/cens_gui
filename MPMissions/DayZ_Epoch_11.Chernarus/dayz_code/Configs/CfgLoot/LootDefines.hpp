@@ -1,0 +1,10 @@
+#define Loot_NONE 0
+#define Loot_GROUP 1
+#define Loot_WEAPON 2
+#define Loot_TOOL Loot_WEAPON
+#define Loot_MAGAZINE 3
+#define Loot_PILE 4
+#define Loot_BACKPACK 5
+#define Loot_VEHICLE 6
+#define Loot_CONTAINER 7
+#define Loot_CUSTOM 8
