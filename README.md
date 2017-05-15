@@ -1,8 +1,10 @@
 # Cen's Custom GUI for Epoch (Overpoch) 1.0.6.1+
 
 ## Credits:
+
 **All credits goes to @cen**
-[Check relevant thread at Epoch forum][thread])
+
++ [Check relevant thread at Epoch forum][thread]
 
 ## Instructions:
 
