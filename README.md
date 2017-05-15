@@ -1,5 +1,9 @@
 # Cen's Custom GUI for Epoch (Overpoch) 1.0.6.1+
 
+## Credits:
+**All credits goes to @cen**
+Check relevant thread at Epoch forum([open src][thread])
+
 ## Instructions:
 
 + It's easy, just follow folder structure in this repo and use all files.
@@ -24,3 +28,4 @@ I guess, most of issues will be caused **by RscTitles and Defines confusion** (y
   + Next go to `Configs\master.hpp` and put relevant line at the top of the file: for example: `#include "Defines\PlayerGUI\your_defines.hpp`
   + That's all. Master is already included and loaded in `desctiption.ext`. Just make sure, line `#include "dayz_code\gui\description.hpp"` goes first (you can see in `desctiption.ext` file what I mean).
 
+[thread]: https://epochmod.com/forum/topic/16448-release-cens-custom-gui-for-epochoverpoch/ "Go to source"
