@@ -1,3 +1,7 @@
+**Note:** WeaponHUD compability added to this branch
+
+---
+
 # Cen's Custom GUI for Epoch (Overpoch) 1.0.6.1+
 
 ## Credits:
